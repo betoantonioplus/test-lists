@@ -29,3 +29,4 @@ Government,GOVT,FREL,"Government-run websites, including military sites."
 E-commerce,COMM,COMM,Websites of commercial services and products.
 Control content,CTRL,N/A,Benign or innocuous content used as a control.
 Intergovernmental Organizations,IGO,N/A,Websites of intergovernmental organizations such as the United Nations.
+Civil Society,NGOS,NGOS,Non-Governmental Organizations and non profit organization of civil society for digital/human rights
